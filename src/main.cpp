@@ -8,9 +8,9 @@ int main (){
 
 
 class Second {
-
-    std::cout << "second class" << std::endl;
-    // second class
+    void printClassName() {
+        std::cout << "second class" << std::endl;
+    }
 }
 class fooClass {
   // foo class
