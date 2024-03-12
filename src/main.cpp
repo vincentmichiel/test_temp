@@ -13,6 +13,11 @@ class Second {
     // second class
 }
 class fooClass {
+public:
+    // getters
+    int getNumber(){
+        return number;
+    }
   // foo class
     private:
         int number = 1;
