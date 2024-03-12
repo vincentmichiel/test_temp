@@ -2,6 +2,11 @@ int main (){
     return 0;
 }
 
+
 class Second {
-  // second class
+    // second class
+}
+class fooClass {
+  // foo class
+
 };
