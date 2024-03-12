@@ -4,4 +4,6 @@ int main (){
 
 class fooClass {
   // foo class
+    private:
+        int number = 1;
 };
