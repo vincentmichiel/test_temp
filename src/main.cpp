@@ -14,5 +14,6 @@ class Second {
 }
 class fooClass {
   // foo class
-
+    private:
+        int number = 1;
 };
